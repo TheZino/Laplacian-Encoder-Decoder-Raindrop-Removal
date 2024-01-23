@@ -1,9 +1,7 @@
 #directories
 
-*.pth
 *.pyc
 
-/Comparisons/*
 /experiments/*
 /venv/*
 /tests/*
