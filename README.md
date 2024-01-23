@@ -92,7 +92,7 @@ Please note that this mode expects to have a dataset with input and ground truth
 
 E.g.
 ```bash
-model='./weights/netLAP_v4_1_BASELINE.pth'
+model='./weights/netLAP_v4_1.pth'
 
 python3 ./source/test.py \
 --input_dir ./test/data/ \
